@@ -1,0 +1,6 @@
+{
+  "name": "CarnivoreOS - Evidence-Based Carnivore Diet & Metabolic Health Platform",
+  "description": "Comprehensive clinical and evidence-based platform for the carnivore diet, human metabolic science, gut-brain axis, transition protocols, and scientific literature explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
